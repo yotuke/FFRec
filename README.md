@@ -1,2 +1,2 @@
-# FFRec
-FFRec: Feature Purification and Cross-Fusion  Dual-Enhanced Multimodal Graph Recommendation
+Our code is currently being organized.
+
